@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qm/jVgOe3er1ASBm3hWsBnOxZc5q+9IqxpX/iMaJDtfp4xAFgpMZj32B2TwVtH87kZJdBF16fm1XMCRbntn/Dw==",
+  "success": true,
+  "projectFilePath": "/Users/majedalharbi/Desktop/GOOOOOOd/Full Quadratic Calculator /Quadratic/Quadratic.csproj",
+  "expectedPackageFiles": [
+    "/Users/majedalharbi/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/majedalharbi/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/majedalharbi/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/majedalharbi/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/majedalharbi/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/majedalharbi/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
